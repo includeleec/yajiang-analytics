@@ -1,0 +1,46 @@
+# 操作系统生成的文件
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Zone.Identifier 文件（Windows 从网络下载的文件标记）
+*:Zone.Identifier
+
+# 临时文件
+*.tmp
+*.temp
+*.log
+
+# 编辑器和IDE生成的文件
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Node.js (如果将来使用)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Python (如果将来使用)
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+
+# 系统和隐藏文件
+.git/
+.gitignore
+
+# PDF文件（避免上传大文件）
+*.pdf
