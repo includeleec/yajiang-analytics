@@ -41,6 +41,3 @@ ENV/
 # 系统和隐藏文件
 .git/
 .gitignore
-
-# PDF文件（避免上传大文件）
-*.pdf
